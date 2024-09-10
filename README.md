@@ -1,2 +1,2 @@
-just a student
+just a student\
 discord: m00sh1
