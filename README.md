@@ -1,2 +1,2 @@
 just a student\
-say hi on discord at m00sh1
+send a sticker on discord @ m00sh1 i reply quik :>
