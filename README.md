@@ -1,7 +1,7 @@
 just a struggling final year student\
 send a sticker on [discord](https://discordapp.com/users/). i reply quik
 
-languages: python, C++, HTML/CSS, JS and \
+languages: python, c++, html/css, js and \
 ```.. .-/ .-../ .../--- .../ .--./ ./ .-/ -.- --/ ---/ .-./ .``` \
 hehe
 
