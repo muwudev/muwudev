@@ -5,4 +5,4 @@ languages: python, C++, HTML/CSS, JS and \
 ```.. .-/ .-../ .../--- .../ .--./ ./ .-/ -.- --/ ---/ .-./ .``` \
 hehe
 
-check out my website for more info!
+check out my website for more info :)
